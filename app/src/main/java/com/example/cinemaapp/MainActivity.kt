@@ -11,7 +11,7 @@ import com.example.cinemaapp.viewmodels.HomePageViewModel
 import com.example.compose.AppTheme
 import com.google.accompanist.systemuicontroller.rememberSystemUiController
 
-class MainActivity : ComponentActivity() {
+class                                           MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
